@@ -1,1 +1,2 @@
 Hello world
+Add notes to file 2
