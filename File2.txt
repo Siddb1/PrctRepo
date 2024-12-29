@@ -1,0 +1,8 @@
+Git Notes:
+
+
+Creating a repository is a process of creating a new folder on your system and initializing it as a git repository.
+It’s just regular folder to code your project, you are just asking git to track it. To create a repository, you can use the following command:
+
+git status
+git init
