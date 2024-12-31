@@ -6,3 +6,7 @@ It’s just regular folder to code your project, you are just asking git to trac
 
 git status
 git init
+
+
+
+git stash
